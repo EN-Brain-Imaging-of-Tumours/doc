@@ -1,0 +1,4 @@
+# There are a list of things we would like to see happening
+
+- use credentials across multiple databases / repository https://www.nature.com/articles/sdata201839 ; check with datalad
+- use browser for BIDS 
