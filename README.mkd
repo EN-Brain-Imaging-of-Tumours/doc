@@ -1,3 +1,7 @@
 # Public documentation of the [European Network for Brain Imaging of Tumours](https://www.enbit.ac.uk/)
 
 The documentation on how the repository is managed, reports of activites, etc are all is made public on the [wiki](https://github.com/EN-Brain-Imaging-of-Tumours/doc/wiki).
+
+There is also a documents on [projects](https://github.com/EN-Brain-Imaging-of-Tumours/doc/blob/master/projects.mkd)
+
+Overwise, other files are abstracts, posters and other scientific outputs from our work.
