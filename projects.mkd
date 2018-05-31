@@ -1,5 +1,13 @@
 # There are a list of things we would like to see happening
 
+## repository wise
 - use credentials across multiple databases / repository https://www.nature.com/articles/sdata201839 ; check with datalad
 - use browser for BIDS @danlurie https://github.com/danlurie/bdpdb
 - mint DOI for each dataset https://kaptur.wordpress.com/2012/05/28/minting-dois-for-research-data-in-the-uk/
+
+## data-protocol wise
+- [standard data quality for different 'sequences' (MRI but also MEEG)](https://github.com/EN-Brain-Imaging-of-Tumours/doc/wiki/Minimal-and-extended-imaging-protocol)  
+- BIDS [extension dictionary](https://github.com/EN-Brain-Imaging-of-Tumours/doc/wiki/BIDS-dictionary-extension)
+
+## analysis wise
+- comparison of procedures 'clinically' relevant (typically subject wise different from group analyses)
